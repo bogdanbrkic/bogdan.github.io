@@ -1,0 +1,18 @@
+:root {
+	--black: #0f0d0d;
+}
+  
+.txt {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: normal;
+	text-align: left;
+	color: var(--black);
+}
+
+a{
+  text-decoration: solid;
+}
